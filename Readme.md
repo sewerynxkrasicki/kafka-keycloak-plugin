@@ -4,8 +4,8 @@ This project is an extension for [Keycloak](https://www.keycloak.org/) that faci
 
 ## Requirements
 
-- Java 17 (due to the use of the newer SDK version in the project)
-- A compatible version of Keycloak
+- Java 17
+- A compatible version of Keycloak (tested with 26.0.8)
 - A running Apache Kafka broker or cluster to which Keycloak will send messages
 
 ## Features
